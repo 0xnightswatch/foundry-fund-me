@@ -1,0 +1,25 @@
+[33mcommit 0b677d2b6d2424960b4622cad8eb64028834bef4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: maksec0 <mohammad.kassem121@gmail.com>
+Date:   Sat Jun 8 09:48:42 2024 +0300
+
+    Updated ReadMe
+
+[33mcommit 3b1da2e43a829bb78c241d9a636da954e9f6b166[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: maksec0 <mohammad.kassem121@gmail.com>
+Date:   Sat Jun 8 09:30:10 2024 +0300
+
+    our first commit
+
+[33mcommit cf9fb392d59acb983018bb35c6775e4d79f08bd4[m
+Author: maksec0 <mohammad.kassem121@gmail.com>
+Date:   Sun Jun 2 18:49:01 2024 +0300
+
+    forge install: forge-std
+    
+    v1.8.2
+
+[33mcommit 8dae9ae82c64870f27206e1d2411b76593fa15e7[m
+Author: maksec0 <mohammad.kassem121@gmail.com>
+Date:   Sun Jun 2 18:48:58 2024 +0300
+
+    chore: forge init
